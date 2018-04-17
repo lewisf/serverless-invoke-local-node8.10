@@ -1,0 +1,11 @@
+{
+  "name": "serverless-invoke-local-node8.10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lewisf/serverless-invoke-local-node8.10.git",
+  "author": "Lewis Chung <lewis@shopwith.co>",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "https://github.com/lewisf/serverless.git#lewis/support-node8.10-async-lambda"
+  }
+}
